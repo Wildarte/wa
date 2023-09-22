@@ -201,3 +201,14 @@ footer.footer{
     width: 100%;
     text-align: center;
 }
+.col_footer{
+    flex-basis: 25%;
+    padding: 10px;
+}
+.col_footer h4{
+    color: var(--color-white);
+    margin-bottom: 20px;
+}
+.col_footer a{
+    color: var(--color-white);
+}
